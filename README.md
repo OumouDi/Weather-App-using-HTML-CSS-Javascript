@@ -2,6 +2,8 @@
 
 This is a simple Weather App built using HTML, CSS, and JavaScript. It allows users to get the current weather details of any city by entering its name.
 
+website link : https://weather-app-etn.pages.dev/
+
 ## Features
 
 - Users can enter the name of a city to get its current weather information.
